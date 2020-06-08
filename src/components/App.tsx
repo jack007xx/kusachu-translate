@@ -24,7 +24,7 @@ const useStyles = makeStyles((theme: Theme) =>
   createStyles({
     field: {
       width: "960px",
-      margin: "auto",
+      margin: "20px",
     },
   })
 );
